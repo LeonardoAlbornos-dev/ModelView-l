@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\entradas\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\entradas\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EntradasMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EntradasMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T13:40:35.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Entradas\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "EntradasMvc\\Views\\Entradas\\Resultado.cshtml",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Entradas\\Resultado.cshtml",
+              "RelativeToolTip": "EntradasMvc\\Views\\Entradas\\Resultado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T13:39:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Entradas\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntradasMvc\\Views\\Entradas\\Index.cshtml",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Entradas\\Index.cshtml",
+              "RelativeToolTip": "EntradasMvc\\Views\\Entradas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T13:38:49.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntradasController.cs",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Controllers\\EntradasController.cs",
+              "RelativeDocumentMoniker": "EntradasMvc\\Controllers\\EntradasController.cs",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Controllers\\EntradasController.cs",
+              "RelativeToolTip": "EntradasMvc\\Controllers\\EntradasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:33:22.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cotizacion.cs",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Models\\Cotizacion.cs",
+              "RelativeDocumentMoniker": "EntradasMvc\\Models\\Cotizacion.cs",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Models\\Cotizacion.cs",
+              "RelativeToolTip": "EntradasMvc\\Models\\Cotizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:23:15.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Program.cs",
+              "RelativeDocumentMoniker": "EntradasMvc\\Program.cs",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Program.cs",
+              "RelativeToolTip": "EntradasMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:17:35.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
