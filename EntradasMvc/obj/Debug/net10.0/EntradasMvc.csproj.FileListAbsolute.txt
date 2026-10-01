@@ -96,3 +96,4 @@ E:\tercer semestre\DB ll\3er momento\universidadxyz\EntradasMvc\EntradasMvc\obj\
 E:\tercer semestre\DB ll\3er momento\universidadxyz\EntradasMvc\EntradasMvc\obj\Debug\net10.0\EntradasMvc.pdb
 E:\tercer semestre\DB ll\3er momento\universidadxyz\EntradasMvc\EntradasMvc\obj\Debug\net10.0\EntradasMvc.genruntimeconfig.cache
 E:\tercer semestre\DB ll\3er momento\universidadxyz\EntradasMvc\EntradasMvc\obj\Debug\net10.0\ref\EntradasMvc.dll
+E:\tercer semestre\DB ll\3er momento\universidadxyz\EntradasMvc\EntradasMvc\obj\Debug\net10.0\EntradasMvc.sourcelink.json

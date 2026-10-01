@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\viewmodels\\resultadocotizacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\viewmodels\\resultadocotizacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\entradas\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\entradas\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\entradas\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\entradas\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\viewmodels\\cotizacioninputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\viewmodels\\cotizacioninputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5589056-A64E-4BE2-9E58-A29688294AB4}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|e:\\tercer semestre\\db ll\\3er momento\\universidadxyz\\entradasmvc\\entradasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9377BCA-00D7-CDEF-480B-2C055DDA7740}|EntradasMvc\\EntradasMvc.csproj|solutionrelative:entradasmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +78,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EntradasMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EntradasMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:30:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EntradasMvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EntradasMvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:30:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ResultadoCotizacionViewModel.cs",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\ViewModels\\ResultadoCotizacionViewModel.cs",
+              "RelativeDocumentMoniker": "EntradasMvc\\ViewModels\\ResultadoCotizacionViewModel.cs",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\ViewModels\\ResultadoCotizacionViewModel.cs",
+              "RelativeToolTip": "EntradasMvc\\ViewModels\\ResultadoCotizacionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:22:44.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CotizacionInputViewModel.cs",
+              "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\ViewModels\\CotizacionInputViewModel.cs",
+              "RelativeDocumentMoniker": "EntradasMvc\\ViewModels\\CotizacionInputViewModel.cs",
+              "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\ViewModels\\CotizacionInputViewModel.cs",
+              "RelativeToolTip": "EntradasMvc\\ViewModels\\CotizacionInputViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:48:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EntradasMvc\\Views\\Shared\\_Layout.cshtml",
@@ -70,8 +138,7 @@
               "RelativeToolTip": "EntradasMvc\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T13:40:35.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T13:40:35.796Z"
             },
             {
               "$type": "Document",
@@ -81,7 +148,7 @@
               "RelativeDocumentMoniker": "EntradasMvc\\Views\\Entradas\\Resultado.cshtml",
               "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Entradas\\Resultado.cshtml",
               "RelativeToolTip": "EntradasMvc\\Views\\Entradas\\Resultado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-28T13:39:51.689Z",
               "EditorCaption": ""
@@ -94,7 +161,7 @@
               "RelativeDocumentMoniker": "EntradasMvc\\Views\\Entradas\\Index.cshtml",
               "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Views\\Entradas\\Index.cshtml",
               "RelativeToolTip": "EntradasMvc\\Views\\Entradas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-28T13:38:49.809Z",
               "EditorCaption": ""
@@ -107,27 +174,27 @@
               "RelativeDocumentMoniker": "EntradasMvc\\Controllers\\EntradasController.cs",
               "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Controllers\\EntradasController.cs",
               "RelativeToolTip": "EntradasMvc\\Controllers\\EntradasController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T13:33:22.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Cotizacion.cs",
               "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Models\\Cotizacion.cs",
               "RelativeDocumentMoniker": "EntradasMvc\\Models\\Cotizacion.cs",
               "ToolTip": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Models\\Cotizacion.cs",
               "RelativeToolTip": "EntradasMvc\\Models\\Cotizacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T13:23:15.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\tercer semestre\\DB ll\\3er momento\\universidadxyz\\EntradasMvc\\EntradasMvc\\Program.cs",
               "RelativeDocumentMoniker": "EntradasMvc\\Program.cs",
@@ -135,8 +202,7 @@
               "RelativeToolTip": "EntradasMvc\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T13:17:35.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T13:17:35.813Z"
             }
           ]
         }
